@@ -2,4 +2,4 @@
 - 👀 I’m interested in modern technology stacks, please please please no more maintaining EOL PHP in exchange for money
 - 🌱 I’m currently learning a lil bit of Rust, quite a bit of container infrastructure and a lot of Python
 - 💞️ I’m looking to collaborate on anything I can leave a positive effect on!
-- 📫 How to reach me: edward @ veyward dot com (Bots pls no)
+- 📫 How to reach me: epitcher @ duck dot com (Bots pls no)
